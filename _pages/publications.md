@@ -17,11 +17,11 @@ author_profile: true
 
 ## Dynamic Bandwidth Allocation in an SDN Environment Using QoS Queues and Open Flow
 
-_December '19_
+_March '2020_
 <br>
 **Authors: Abhilash Venkatesh, Dr. N. Radhika, K.S. Niranjan Kumar, Phanindra Meduri, Nikhil Chandra Sai Ram**
 <br>
-Presented At: International Conference on Recent Trends in Engineering and Scientific Technology 2019
+Presented At: International Conference on Recent Trends in Engineering and Scientific Technology 2020
 <br>
 <br>
 Citation: V. ABHILASH, Dr. N. RADHIKA, K.S. NIRANJAN KUMAR, PHANINDRA MEDURI, NIKHIL CHANDRA SAI RAM. (2019, December). Dynamic Bandwidth Allocation in an SDN Environment Using QoS Queues and Open Flow
