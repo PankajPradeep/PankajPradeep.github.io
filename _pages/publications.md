@@ -24,9 +24,9 @@ _March '2020_
 Presented At: International Conference on Recent Trends in Engineering and Scientific Technology 2020
 <br>
 <br>
-Citation: V. ABHILASH, Dr. N. RADHIKA, K.S. NIRANJAN KUMAR, PHANINDRA MEDURI, NIKHIL CHANDRA SAI RAM. (2019, December). Dynamic Bandwidth Allocation in an SDN Environment Using QoS Queues and Open Flow
+Citation: Venkatesh. A., Dr. Radhika N., K.N., K., P., M., and N.C., S. Ram, “Dynamic Bandwidth Allocation in an Sdn Environment Using QoS Queues and Open Flow”, International Journal of Pharmaceutical Research, Vol. 12, no. 1, pp. 1060-1073, 2020.
 
-[Link to the publication](http://www.ijpronline.com/ViewArticleDetail.aspx?ID=12746)
+[Link to the publication](https://doi.org/10.31838/ijpr/2020.12.01.196)
 
 <hr>
 
