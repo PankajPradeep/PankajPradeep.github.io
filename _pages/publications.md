@@ -27,6 +27,7 @@ Presented At: International Conference on Recent Trends in Engineering and Scien
 Citation: **Venkatesh. A.**, Dr. Radhika N., K.N., K., P., M., and N.C., S. Ram., 2020. “Dynamic Bandwidth Allocation in an Sdn Environment Using QoS Queues and Open Flow”. In International Journal of Pharmaceutical Research, Vol. 12, no. 1, pp. 1060-1073, IEEE.
 
 [Link to the Publication](https://doi.org/10.31838/ijpr/2020.12.01.196)
+<br>
 [Link to the PDF](https://bit.ly/abhilash-sdn-paper-pdf)
 
 <hr>
