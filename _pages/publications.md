@@ -17,16 +17,16 @@ author_profile: true
 
 ## Dynamic Bandwidth Allocation in an SDN Environment Using QoS Queues and Open Flow
 
-_December '19_
+_March '2020_
 <br>
 **Authors: Abhilash Venkatesh, Dr. N. Radhika, K.S. Niranjan Kumar, Phanindra Meduri, Nikhil Chandra Sai Ram**
 <br>
-Presented At: International Conference on Recent Trends in Engineering and Scientific Technology 2019
+Presented At: International Conference on Recent Trends in Engineering and Scientific Technology 2020
 <br>
 <br>
-Citation: V. ABHILASH, Dr. N. RADHIKA, K.S. NIRANJAN KUMAR, PHANINDRA MEDURI, NIKHIL CHANDRA SAI RAM. (2019, December). Dynamic Bandwidth Allocation in an SDN Environment Using QoS Queues and Open Flow
+Citation: **Venkatesh. A.**, Dr. Radhika N., K.N., K., P., M., and N.C., S. Ram., 2020. “Dynamic Bandwidth Allocation in an Sdn Environment Using QoS Queues and Open Flow”. In International Journal of Pharmaceutical Research, Vol. 12, no. 1, pp. 1060-1073, IEEE.
 
-[Link to the publication](http://www.ijpronline.com/ViewArticleDetail.aspx?ID=12746)
+[Link to the publication](https://doi.org/10.31838/ijpr/2020.12.01.196)
 
 <hr>
 
@@ -36,10 +36,10 @@ _January '19_
 <br>
 **Authors: Abhilash Venkatesh, Aswin Suresh**
 <br>
-Presented At: Proceedings of the 8th Project Innovation Contest (A sister concern activity of 15th International Conference on Distributed Computing and Intelligent Technology)
+Presented At: Proceedings of the 8th Project Innovation Contest (A sister concern activity of 15th International Conference on Distributed Computing and Intelligent Technology)
 <br>
 <br>
-Citation: V. ABHILASH, S. Aswin. (2019, January). Smart Eye - Wearable smart hardware for the visually impaired
+Citation: **Venkatesh. A.**, Suresh. A. (2019, January). "Smart Eye - Wearable smart hardware for the visually impaired". In Proceedings of 8th Project Innovation Contest 2019 (A sister concern activity of 15th International Conference on Distributed Computing and Intelligent Technology), ISBN:978-93-5346-080-8.
 
 [Link to the publication](http://abhilash-venkatesh.github.io/files/Smart_Eye.pdf)
 
