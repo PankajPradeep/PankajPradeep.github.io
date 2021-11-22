@@ -26,7 +26,7 @@ Presented At: International Conference on Recent Trends in Engineering and Scien
 <br>
 Citation: **Venkatesh. A.**, Dr. Radhika N., K.N., K., P., M., and N.C., S. Ram., 2020. “Dynamic Bandwidth Allocation in an Sdn Environment Using QoS Queues and Open Flow”. In International Journal of Pharmaceutical Research, Vol. 12, no. 1, pp. 1060-1073, IEEE.
 
-[Link to the publication](https://doi.org/10.31838/ijpr/2020.12.01.196)
+[Link to the Publication](https://doi.org/10.31838/ijpr/2020.12.01.196) [Link to the PDF](https://bit.ly/abhilash-sdn-paper-pdf)
 
 <hr>
 
@@ -41,6 +41,6 @@ Presented At: Proceedings of the 8th Project Innovation Contest (A sister concer
 <br>
 Citation: **Venkatesh. A.**, Suresh. A. (2019, January). "Smart Eye - Wearable smart hardware for the visually impaired". In Proceedings of 8th Project Innovation Contest 2019 (A sister concern activity of 15th International Conference on Distributed Computing and Intelligent Technology), ISBN:978-93-5346-080-8.
 
-[Link to the publication](http://abhilash-venkatesh.github.io/files/Smart_Eye.pdf)
+[Link to the PDF](http://abhilash-venkatesh.github.io/files/Smart_Eye.pdf)
 
 <hr>
