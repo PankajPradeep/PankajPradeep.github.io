@@ -6,5 +6,11 @@ main:
   - title: "Resume"
     url: /resume/
 
+  - title: "Experience"
+    url: /experience/
+
   - title: "Conferences & Publications"
     url: /publications/
+
+  - title: "Projects"
+    url: /projects/
