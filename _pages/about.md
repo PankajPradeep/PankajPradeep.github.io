@@ -10,7 +10,7 @@ redirect_from:
 
 Hello!
 
-I'm Abhilash. I'm currently a pursuing a Master of Science degree in Computer Science at Columbia University in the City of New York, where I am also employed part-time as a Graduate Research Assistant. As a research assistant at Columbia, I work with Professor Dr. Henning Schulzrinne on designing the next generation of secure digital ID solutions that can be deployed in parts of our society where there is minimal or no access to modern digital infrastructure. 
+I'm Abhilash. I'm currently pursuing a Master of Science degree in Computer Science at Columbia University in the City of New York, where I am also employed part-time as a Graduate Research Assistant. As a research assistant at Columbia, I work with Professor Dr. Henning Schulzrinne on designing the next generation of secure digital ID solutions that can be deployed in parts of our society where there is minimal or no access to modern digital infrastructure. 
 
 I completed my undergraduate degree - Bachelor of Technology in Computer Science and Engineering at Amrita Vishwa Vidyapeetham University, India. I passed out during 2020 with a cumulative GPA of 9.51 / 10, ranking seventh in my department of over 380 students. I was awarded “First Class with Distinction” by the Department of Computer Science at Amrita Vishwa Vidyapeetham University for outstanding academic qualifications, research work, social contributions, leadership skills, and securing internships while pursuing an undergraduate degree at the University.
 
