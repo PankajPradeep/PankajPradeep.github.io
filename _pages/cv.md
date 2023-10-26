@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Click [here](https://abhilash-venkatesh.github.io/files/AbhilashVenkateshResume.pdf) to view Abhilash's Resume.
+Click [here]([https://github.com/PankajPradeep/pankaj-pradeep.github.io/blob/main/files/Resume_Pankaj.pdf]) to view Pankaj's Resume.
