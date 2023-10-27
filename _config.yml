@@ -7,13 +7,13 @@
 
 # Site Settings
 locale: "en-US"
-title: "Abhilash Venkatesh"
+title: "Pankaj"
 title_separator: "-"
-name: &name "Abhilash Venkatesh"
-description: &description "Computer Systems Networking and Security Enthusiast"
-url: https://abhilash-venkatesh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name: &name "Pankaj"
+description: &description "Bioinformatics and Computational Biologist"
+url: https://PankajPradeep.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "abhilash-venkatesh/abhilash-venkatesh.github.io"
+repository: "PankajPradeep/PankajPradeep.github.io"
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
 words_per_minute: 160
