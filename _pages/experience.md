@@ -8,8 +8,10 @@ redirect_from:
 ---
 
 <hr>
+
 # Internships
 <br>
+
 ## Student Research Worker
 
 _Sep '23 — Present_
