@@ -9,50 +9,37 @@ redirect_from:
 
 <hr>
 
-## A Dynamic Bandwidth Allocation Program in a Software-Defined Network
+# Research Projects
 
-_June '20_
+## Insights into Phenylketonuria and Suggested Solution to Disorder
+
+_Jan '21 — Jun '21_
 <br>
-
-A Software Defined Network can be used to separate the data and control planes of networking components and to create a centralized control plane, called the SDN Controller which acts as the brain of the network. The controller governs the actions of the individual components of the network. It uses two types of API to communicate with the networking components, namely, northbound and southbound APIs. A southbound API is used by the controller to send configurations and flow-rules to the connected networking components. By taking advantage of these flow-rules, a network can be made more dynamic and software controlled. In the current networking scenario, users gain access to the internet via an ISP who allocates a fixed bandwidth to the user regardless of the bandwidth usage by the user. This is disadvantageous to both end user and the ISP as bandwidth is not conserved during idle times. By building such a network application working in an SDN environment, we allows users to request the controller for a fixed amount of bandwidth for a specified amount of time to any other host that is connected to the topology. The network application would built on top of an SDN controller, and would work by configuring QoS queues and flow-rules onto connected networking components with help of the southbound API Open Flow. The configured QoS queues would limit bandwidth to minimum & maximum values, and the flow-rules qould en-queue traffic from different hosts onto the created QoS queues. The client side of the network application may run on any node in the topology and is designed to send bandwidth requests to the controller. The controller would respond to the client-application with response codes representing the success/failure of bandwidth allocation. This project implements said network application in a scalable network topology deployed as an SDN.
-
-[Link to the project](https://github.com/abhilash-venkatesh/SDNProject)
-
-<hr>
-
-# Undergraduate Coursework Projects
-
-## 15CSE376 - Net Centric Programming
-
-### A simplified course management system with assignments, quizzes, grading and attendance monitoring.
-
-_Jun ’19 – Oct ’19_
+**Vellore Institute of Technology, Vellore, India**
 <br>
+During this project, I performed a comprehensive literature review to gain a profound understanding of Phenylketonuria (PKU) and the severity of this genetic disorder. I meticulously analyzed the mutations at the genetic level to identify which mutation(s) had the most disruptive or damaging impact on PKU patients. In addition to this, I proposed a novel solution to address PKU and conducted feasibility studies to assess the practicality and effectiveness of this solution. This project not only deepened my knowledge of genetic disorders but also allowed me to explore potential solutions to alleviate the challenges faced by PKU patients.
 
-<li>Tools: Javascript, HTML, CSS, Java</li>
-<li> <a href='https://github.com/ShriRamaJeyam/NCP3'>[Link]</a> </li>
-<li> Grade Obtained: 'O' (=10/10) </li>
+## In-Silico Analysis of PTEN Variants causing Breast Cancer (Aug 2020 – Feb 2021)
 
-## 15CSE313 - Software Engineering
-
-### An event management system to simply the planning and hosting of events
-
-_Dec ’18 – May ’19_
+_Aug '20 — Feb '21_
 <br>
-
-<li>Tools used: NodeJS, Web Development, JIRA, Selenium, Testing tools</li>
-<li> <a href='https://github.com/uma-subbiah/EventIt'>[Link]</a> </li>
-<li> Grade Obtained: 'A+' (=9/10) </li>
-
-## 15CSE302 - Database Management System
-
-### A portal to track the infant mortality rates across the Indian subcontinent
-
-_Jun ’18 – Nov ’18_
+**Vellore Institute of Technology, Vellore, India**
 <br>
+This project involved a meticulous analysis of PTEN variants associated with breast cancer. I identified the amino acid changes that were most harmful to the PTEN protein structure and subsequently evaluated the stability of each amino acid change using specialized software tools. Additionally, using PyMol I compared the structural variations between mutated protein structures and the native protein structure when these mutations were induced. To gather relevant genetic information, I utilized databases such as the dbSNP database, Polyphen-2 database server, and SIFT for SNP collection and analysis. This project significantly enhanced my understanding of the genetic factors contributing to breast cancer.
 
-<li>Tools used: SQL, Database design using ER diagrams, EER, Normalisation, Java Database Connectivity</li>
-<!-- <li> <a href='https://github.com/uma-subbiah/EventIt'>[Link]</a> </li> -->
-<li> Grade Obtained: 'A+' (=9/10) </li>
+## Vitamin B12: The Energy Vitamin - A Review Paper
 
+_Aug '20 — Jan '21_
+<br>
+**Vellore Institute of Technology, Vellore, India**
+<br>
+In this project, I documented a comparative study after conducting an in-depth review of approximately 70 research papers. My focus was on optimizing strategies to enhance the yield of vitamin B12 during industrial production. This project not only contributed to the body of knowledge surrounding vitamin B12 but also explored practical applications for industrial optimization. We drafted an extensive review paper that was submitted to multiple journals for review with a tabular column comparing all the information ever known for producing Vitamin B12 industrially.
+
+## Checking the Effectiveness of Commercially Available Sanitizers on Microbes
+
+_Jan '19 — May '19_
+<br>
+**Vellore Institute of Technology, Vellore, India**
+<br>
+As part of my Microbiology course, I investigated the effectiveness of commercially available sanitizers on microbes by collecting swab samples from various sources. I then executed microbiological laboratory techniques, including Spread Plating and Agar-Well Diffusion Methods, to assess the efficiency of these sanitizers. After comprehensive analysis and experimentation, I compiled a final report presenting the findings, which indicated that the sanitizers achieved an efficacy rate of approximately 96-97%. This project provided insights into the real-world application of sanitizers and their impact on microbial communities.
 <hr>
