@@ -15,34 +15,33 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-## Dynamic Bandwidth Allocation in an SDN Environment Using QoS Queues and Open Flow
+## Reviewing the Analeptic Activity of Calcium Citrate Malate
 
 _March '2020_
 <br>
-**Authors: Abhilash Venkatesh, Dr. N. Radhika, K.S. Niranjan Kumar, Phanindra Meduri, Nikhil Chandra Sai Ram**
+**Bharat Kwatra, Chelsea Rumao, Hiya Abrol, Ishika Gulati, Pankaj Pradeep, Srashti Bajpai**
 <br>
-Presented At: International Conference on Recent Trends in Engineering and Scientific Technology 2020
+International Journal of Pharmaceutical Sciences Review and Research, 70(2), September - October 2021; Article No. 36, Pages: 294-304
 <br>
 <br>
-Citation: **Venkatesh. A.**, Dr. Radhika N., K.N., K., P., M., and N.C., S. Ram., 2020. “Dynamic Bandwidth Allocation in an Sdn Environment Using QoS Queues and Open Flow”. In International Journal of Pharmaceutical Research, Vol. 12, no. 1, pp. 1060-1073, IEEE.
+Citation: Kwatra, Bharat & Rumao, Chelsea & Abrol, Hiya & Gulati, Ishika & **Pradeep, Pankaj** & Bajpai, Srashti. (2021). Reviewing the Analeptic Activity of Calcium Citrate Malate. International Journal of Pharmaceutical Sciences Review and Research. 70. 10.47583/ijpsrr.2021.v70i02.036. 
 
-[Link to the Publication](https://doi.org/10.31838/ijpr/2020.12.01.196)
+[Link to the Publication]([http://dx.doi.org/10.47583/ijpsrr.2021.v70i02.036])
 <br>
-[Link to the PDF](https://bit.ly/abhilash-sdn-paper-pdf)
+[Link to the PDF]([https://globalresearchonline.net/journalcontents/v70-2/36.pdf])
 
 <hr>
 
-## Smart Eye - Wearable smart hardware for the visually impaired
+## Polyethylene Degradation using Titanium Nanoparticles
 
-_January '19_
-<br>
-**Authors: Abhilash Venkatesh, Aswin Suresh**
-<br>
-Presented At: Proceedings of the 8th Project Innovation Contest (A sister concern activity of 15th International Conference on Distributed Computing and Intelligent Technology)
-<br>
-<br>
-Citation: **Venkatesh. A.**, Suresh. A. (2019, January). "Smart Eye - Wearable smart hardware for the visually impaired". In Proceedings of 8th Project Innovation Contest 2019 (A sister concern activity of 15th International Conference on Distributed Computing and Intelligent Technology), ISBN:978-93-5346-080-8.
 
-[Link to the PDF](http://abhilash-venkatesh.github.io/files/Smart_Eye.pdf)
+_December '20_
+<br>
+**Authors: Pankaj Pradeep, B. Sathya Sri, Aishee Nishat Hoque, Niharika G.**
+<br>
+Presented At: Proceedings of International Conference on Innovations in Biotechnology and Life Sciences, 2020.
+<br>
+
+[Link to the PDF](https://books.google.com/books?id=SA0eEAAAQBAJ&printsec=frontcover#v=onepage&q&f=false)
 
 <hr>
