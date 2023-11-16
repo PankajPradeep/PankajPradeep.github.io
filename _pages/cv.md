@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Click [here](https://github.com/PankajPradeep/PankajPradeep.github.io/blob/main/files/Resume_Pankaj.pdf) to view Pankaj's Resume.
+Click [here](https://pankajpradeep.github.io/files/Resume_Pankaj.pdf) to view Pankaj's Resume.
