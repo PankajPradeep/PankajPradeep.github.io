@@ -78,14 +78,14 @@ analytics:
 
 # Site Author
 author:
-  name: "Abhilash Venkatesh"
-  avatar: "abhilv.jpg"
-  bio: "Security Consulting Engineer at Cisco Systems Inc. | Computer Systems Networking and Security Enthusiast"
-  location: "Bangalore, India"
-  employer: Cisco Systems Inc.
+  name: "Pankaj Pradeep"
+  avatar: "Profile-ProfeshPhoto.jpg"
+  bio: "Bioinformatics | Computational Biology | Machine Learning | MS Biomedical Engineering | BTech Biotechnology"
+  location: "New York, NY"
+  employer: 
   # pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar: "http://yourfullgooglescholarurl.com"
-  email: abhilash.venky@gmail.com
+  email: pp2831@columbia.edu
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
@@ -94,13 +94,13 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: "abhilash-venkatesh"
+  github: "PankajPradeep"
   google_plus:
   keybase:
   instagram:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin: "abhilashvenkatesh1998"
+  linkedin: "https://www.linkedin.com/in/pankajpradeep/"
   # orcid: "http://orcid.org/yourorcidurl"
   pinterest:
   soundcloud:
@@ -298,3 +298,9 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+plugins:
+  - jekyll-github-metadata
+github:
+  token: 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
+
