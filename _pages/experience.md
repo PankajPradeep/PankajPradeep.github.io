@@ -14,7 +14,7 @@ redirect_from:
 
 ## Student Research Worker
 
-_Sep '23 — Present_
+_Sep '23 — Dec '23_
 <br>
 **Gertrude H. Sergivesky Centre, Columbia Irving Medical Centre, New York, NY**
 <br>
