@@ -26,9 +26,9 @@ International Journal of Pharmaceutical Sciences Review and Research, 70(2), Sep
 <br>
 Citation: Kwatra, Bharat & Rumao, Chelsea & Abrol, Hiya & Gulati, Ishika & **Pradeep, Pankaj** & Bajpai, Srashti. (2021). Reviewing the Analeptic Activity of Calcium Citrate Malate. International Journal of Pharmaceutical Sciences Review and Research. 70. 10.47583/ijpsrr.2021.v70i02.036. 
 
-[Link to the Publication]([http://dx.doi.org/10.47583/ijpsrr.2021.v70i02.036])
+[Link to the Publication](http://dx.doi.org/10.47583/ijpsrr.2021.v70i02.036)
 <br>
-[Link to the PDF]([https://globalresearchonline.net/journalcontents/v70-2/36.pdf])
+[Link to the PDF](https://globalresearchonline.net/journalcontents/v70-2/36.pdf)
 
 <hr>
 
