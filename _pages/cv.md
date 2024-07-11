@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Click [here](https://pankajpradeep.github.io/files/PankajPradeep_Bioinformatics_CV.pdf) to view Pankaj's Resume.
+Click [here](https://PankajPradeep.github.io/files/PankajPradeep_Bioinformatics_CV.pdf) to view Pankaj's Resume.
