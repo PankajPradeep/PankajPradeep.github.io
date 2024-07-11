@@ -11,7 +11,7 @@ redirect_from:
 
 # Research Projects - Columbia University (Graduate Studies)
 ## Enhancing [TIGER]([url](https://huggingface.co/spaces/Knowles-Lab/tiger)) Model for Cas13 Off-Target Prediction for Indel gRNA Data
-_Sep '23 — Present_
+_Sep '23 — Dec '23_
 <br>
 **Columbia University, New York, NY**
 I'm currently improving the TIGER Model for predicting Cas13 off-targets at Columbia University. I'm working on making the model better at handling indel gRNA data by adjusting its setup. My goal is to predict off-target activity more accurately in different genomic situations. I'm using a simple algorithm, the Levenshtein distance, to encode DNA sequences with indels. This work is ongoing, and I'm excited about making Cas13 off-target predictions more reliable and adaptable.
